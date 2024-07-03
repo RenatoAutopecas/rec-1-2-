@@ -1,0 +1,21 @@
+header{
+    background-color: darkgreen;
+    padding: 10px;
+    text-align: left;
+}
+main{background-color: darkgreen;
+padding: 30px;
+}
+body{
+    color:aqua;
+    margin: 1cm;
+}
+.lema{
+    text-align: center;
+    font-size: 32px;
+    font-style: italic;
+}
+.autor{
+    text-align:right;
+    font-size: 16px;
+}
